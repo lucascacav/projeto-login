@@ -28,9 +28,9 @@ Grandes Telas: acima de 1200px */
     }
 
     section#login > div#formulario {
+        display: block;
         float: right;
         width: 70%;
-
     }
 }
 
@@ -44,11 +44,13 @@ Grandes Telas: acima de 1200px */
         width: 950px;
     }
     section#login > div#imagem {
+        display: block;
         float: right;
         width: 50%;
         height: 100%;
     }
     section#login > div#formulario {
+        display: block;
         float: left;
         width: 50%;
         height: 100%;
