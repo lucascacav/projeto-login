@@ -97,7 +97,7 @@ form > a.botao {
     border: 1px solid #49a09d;
     border-radius: 5px;
     text-decoration: none;
-    padding-top: 6px;
+
     margin-top: 5px;
 }
 
@@ -107,6 +107,7 @@ form > a.botao:hover {
 
 form > a.botao > i {
     font-size: 0.8em;
+    padding-top: 0;
 }
 
 form > div.campo {
