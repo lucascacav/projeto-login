@@ -97,7 +97,7 @@ form > a.botao {
     border: 1px solid #49a09d;
     border-radius: 5px;
     text-decoration: none;
-
+    padding-top: 6px;
     margin-top: 5px;
 }
 
